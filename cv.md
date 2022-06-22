@@ -1,10 +1,13 @@
 ## **CURRICULM VITAE**
 \
+![Me][1]
+
+[1]: https://avatars.githubusercontent.com/u/107574997?v=4 "Me"
 **Name:** Kaplunov Pavel\
 **Date of birth:** 29th of September 1997\
 **Address:** Samara, Russia\
 **E-mail:** caplunov.pavel@yandex.ru\
-**GitHub username:** KaplunovPavel
+**GitHub username:** [KaplunovPavel](https://github.com/KaplunovPavel)
 
 #### ***Education:***
 **2015-2019,** Samara National Research University, Institute of Engines and Power Plants, specialty *"Aircraft engines"*, ***bachelor's degree***.\
@@ -23,3 +26,6 @@
 * Calculation of the characteristics of elastic-hydraulic dampers.
 * Skills for creating macros in VBA Excel.
 * Proficiency in ANSYS, Dynamics R4, Siemens NX, MS Office, Catia V5, Compass 3D, SolidWorks, Mathcad.
+```
+sinx/n = six = 6
+```
